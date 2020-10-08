@@ -116,10 +116,13 @@ console.log(babyInfo.play());
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1.  Window Binding -  Refers to the global scope when no object is declared
+
+  2. Implicit Binding - Declared object - When used inside a method it refers to the method object
+  
+  3. New Binding - When you use the new keyword to create a objects from a constructor function
+
+  4. Explicit Binding -  
 */
 
 ///////// END OF CHALLENGE /////////
